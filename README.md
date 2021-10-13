@@ -12,4 +12,8 @@ The purpose of this page is to provide pointers to relevant posts pertaining to 
 
 ## Topics
 
-### Topic 1
+### What to do when one cannot compute the sampling variances for some studies
+- https://stat.ethz.ch/pipermail/r-sig-meta-analysis/2017-June/000011.html
+
+### Meta-analysis of survival data (KM estimates)
+- https://stat.ethz.ch/pipermail/r-sig-meta-analysis/2017-June/000008.html
