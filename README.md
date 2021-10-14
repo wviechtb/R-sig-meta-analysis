@@ -17,3 +17,9 @@ The purpose of this page is to provide pointers to relevant posts pertaining to 
 
 ### Meta-analysis of survival data (KM estimates)
 - https://stat.ethz.ch/pipermail/r-sig-meta-analysis/2017-June/000008.html
+
+### The Freeman-Tukey double arcsine transformation and its back-transformation
+- https://stat.ethz.ch/pipermail/r-sig-meta-analysis/2017-July/000026.html
+
+### Definition / compuation of I^2, R^2, and I^2 in meta-regression models
+- https://stat.ethz.ch/pipermail/r-sig-meta-analysis/2021-October/003447.html
