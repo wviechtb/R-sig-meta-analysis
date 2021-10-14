@@ -22,7 +22,7 @@ The [R-sig-meta-analysis mailing list](https://stat.ethz.ch/mailman/listinfo/r-s
 Discussions on the list often revolve around repeating topics. One can browse the [mailing list archives](https://stat.ethz.ch/pipermail/r-sig-meta-analysis/) or use search engines like [Google](https://www.google.com/search?hl=EN&source=hp&q=site:https://stat.ethz.ch/pipermail/r-sig-meta-analysis
 ) or [DuckDuckGo](https://duckduckgo.com/?q=site:https://stat.ethz.ch/pipermail/r-sig-meta-analysis&ia=web) to find posts in the archives relevant to one's interest. This still requires some digging.
 
-The purpose of this page is to provide pointers to relevant posts pertaining to various topics.
+The purpose of this page is to provide pointers to relevant posts pertaining to various topics. Note that links to relevant posts from the archives may take you to the first post in a thread, which typically raises a question/issue. Pertinent answers can then be found in the responses to this post.
 
 # Topics
 
