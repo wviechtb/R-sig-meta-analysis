@@ -1,5 +1,5 @@
 ---
-title: "**R-sig-meta-analysis Topics**"
+title: "**R-sig-meta-analysis Topics and FAQ**"
 author: Wolfgang Viechtbauer and Others
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:

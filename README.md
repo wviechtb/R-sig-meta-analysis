@@ -1,5 +1,5 @@
-R-sig-meta-analysis Topics
-==========================
+R-sig-meta-analysis Topics and FAQ
+==================================
 
 ## Description
 
@@ -8,4 +8,4 @@ The [R-sig-meta-analysis mailing list](https://stat.ethz.ch/mailman/listinfo/r-s
 Discussions on the list often revolve around repeating topics. One can browse the [mailing list archives](https://stat.ethz.ch/pipermail/r-sig-meta-analysis/) or use search engines like [Google](https://www.google.com/search?hl=EN&source=hp&q=site:https://stat.ethz.ch/pipermail/r-sig-meta-analysis
 ) or [DuckDuckGo](https://duckduckgo.com/?q=site:https://stat.ethz.ch/pipermail/r-sig-meta-analysis&ia=web) to find posts in the archives relevant to one's interest. This still requires some digging.
 
-The purpose of this repo is to provide pointers to relevant posts pertaining to various topics. You should go to https://wviechtb.github.io/R-sig-meta-analysis/ to read the topic document.
+The purpose of this repo is to provide pointers to relevant posts pertaining to various topics. You should go to https://wviechtb.github.io/R-sig-meta-analysis/ to read the topic/FAQ document.
