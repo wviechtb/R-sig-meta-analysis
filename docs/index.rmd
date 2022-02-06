@@ -47,3 +47,22 @@ Standard meta-analytic models use as input the effect size estimates and the cor
 ### Definition / computation of $I^2$, $R^2$, and $I^2$ in meta-regression models
 
 - https://stat.ethz.ch/pipermail/r-sig-meta-analysis/2021-October/003447.html
+
+### Multilevel and multivariate meta-analysis for dependent effect sizes
+
+- https://stat.ethz.ch/pipermail/r-sig-meta-analysis/2017-August/000131.html
+- https://hypatia.math.ethz.ch/pipermail/r-sig-meta-analysis/2018-January/000483.html
+- https://hypatia.math.ethz.ch/pipermail/r-sig-meta-analysis/2018-February/000638.html
+- https://hypatia.math.ethz.ch/pipermail/r-sig-meta-analysis/2018-April/000735.html
+- https://stat.ethz.ch/pipermail/r-sig-meta-analysis/2017-August/000094.html
+- https://hypatia.math.ethz.ch/pipermail/r-sig-meta-analysis/2019-March/001479.html
+- https://hypatia.math.ethz.ch/pipermail/r-sig-meta-analysis/2019-September/001747.html
+
+### Generalized Linear Models and meta-analysis
+
+- https://hypatia.math.ethz.ch/pipermail/r-sig-meta-analysis/2018-January/
+
+### Q-Statistic/Chi-square/F-test for Between-Subgroup Heterogeneity
+
+- https://hypatia.math.ethz.ch/pipermail/r-sig-meta-analysis/2018-July/000912.html
+- https://hypatia.math.ethz.ch/pipermail/r-sig-meta-analysis/2018-October/001156.html
